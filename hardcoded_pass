@@ -1,3 +1,0 @@
-def hardcoded_password():
-    password = "12345"  # Hardcoded password is a security issue
-    print(f"Password is: {password}")
