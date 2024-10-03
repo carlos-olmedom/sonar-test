@@ -1,5 +1,0 @@
-def duplicate_function():
-    print("This is a duplicate function")
-
-def duplicate_function_again():
-    print("This is a duplicate function")  # Duplicated logic
