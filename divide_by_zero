@@ -1,0 +1,2 @@
+def divide_by_zero():
+    value = 42 / 0  # This will cause a runtime error
