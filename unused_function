@@ -1,2 +1,0 @@
-def unused_variable_function():
-    unused_variable = 42  # This variable is never used
